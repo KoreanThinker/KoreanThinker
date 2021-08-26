@@ -1,9 +1,11 @@
-**Typescript is God ⭐️** 
 <p  >
 <img width="455px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="KoreanThinker's Stats" /> 
     <img width="385px" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
-
+<details>
+<summary>My daily life</summary>
+ 
+    
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -43,4 +45,4 @@ pires                    5 hrs 31 mins       ████░░░░░░░�
 
  Last Updated on 26/08/2021
 <!--END_SECTION:waka-->
-
+</details>
