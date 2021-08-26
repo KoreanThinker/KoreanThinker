@@ -5,5 +5,5 @@
 </p>
 
 ## ⏱ Waka time
-<img width="935px" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker" alt="KoreanThinker's Stats" /> 
+<img width="840px" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker" alt="KoreanThinker's Stats" /> 
 
