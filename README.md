@@ -1,12 +1,8 @@
-### **KoreanThinker**  |  ***The ability to express as much as I think***
- 	   
 **Typescript is God ⭐️** 
 <p  >
 <img width="455px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="KoreanThinker's Stats" /> 
     <img width="385px" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
-
- 	
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
