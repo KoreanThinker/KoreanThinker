@@ -3,7 +3,7 @@
     <img width="385px" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
 <details>
-<summary>My daily life 👈</summary>
+<summary>My daily life 👈 click here!</summary>
  
     
 <!--START_SECTION:waka-->
