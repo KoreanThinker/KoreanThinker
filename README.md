@@ -1,5 +1,7 @@
 <p  >
-<img width="455px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="KoreanThinker's Stats" /> 
+  <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=32" >
+    <img width="455px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="KoreanThinker's Stats" /> 
+  </a>
     <img width="385px" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
 <details>
