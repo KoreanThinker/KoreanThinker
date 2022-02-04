@@ -1,6 +1,6 @@
 <p >
   <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=32" >
-    <img width="53.5%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="If you can't see refresh browser or click me!" /> 
+    <img width="53.5%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6&v=2" alt="If you can't see refresh browser or click me!" /> 
   </a>
     <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
