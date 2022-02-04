@@ -1,8 +1,8 @@
 <p  >
   <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=32" >
-    <img width="475px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="If you can't see refresh browser or click me!" /> 
+    <img width="360px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="If you can't see refresh browser or click me!" /> 
   </a>
-    <img width="405px" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
+    <img width="308px" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
