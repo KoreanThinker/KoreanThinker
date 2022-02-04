@@ -6,6 +6,10 @@
   <img width="668px" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=8&no-frame=true" />
 </p>
 
+  <img width="668px" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=8&no-frame=true" />
+    <img width="668px" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=8&no-frame=true" />
+      <img width="668px" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=8&no-frame=true" />
+        <img width="668px" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=8&no-frame=true" />
 
 
 <details>
