@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Typescript-222222?style=for-the-badge&logo=Typescript&logoColor=#3178C6"> <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=#61DAFB"> <img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=#61DAFB"> <img src="https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=Node.js&logoColor=#339933"> <img src="https://img.shields.io/badge/Jest-222222?style=for-the-badge&logo=Jest&logoColor=#C21325">
+
 <p >
   <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=32&v=2" >
     <img width="53.5%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6&v=2" alt="If you can't see refresh browser or click me!" /> 
