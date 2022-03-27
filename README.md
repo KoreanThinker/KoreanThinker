@@ -8,6 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://twitter.com/koreanthinker)
 [![Reddit](https://img.shields.io/badge/Reddit-222222?style=for-the-badge&logo=Reddit&logoColor=#FF4500)](https://www.reddit.com/user/korean_thinker)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/dev_hyun/)
+[![Gmail](https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=Gmail&logoColor=#EA4335)](mailto:coderhyun476@gmail.com)
 
 <p>
   <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=32&v=2" >
