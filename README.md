@@ -4,7 +4,7 @@
 ![NodeJs](https://img.shields.io/badge/Nodejs-222222?style=for-the-badge&logo=Node.js&logoColor=#339933)
 ![Jest](https://img.shields.io/badge/Jest-222222?style=for-the-badge&logo=Jest&logoColor=#C21325)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-222222?style=for-the-badge&logo=Linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/%ED%98%84-%EB%82%A8%EA%B6%81-1296711ab/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-222222?style=for-the-badge&logo=Linkedin&logoColor=#0A66C2)](https://linkedin.com/in/koreanthinker)
 [![Twitter](https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://twitter.com/koreanthinker)
 [![Reddit](https://img.shields.io/badge/Reddit-222222?style=for-the-badge&logo=Reddit&logoColor=#FF4500)](https://www.reddit.com/user/korean_thinker)
 [![Instagram](https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/dev_hyun/)
