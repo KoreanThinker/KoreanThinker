@@ -12,7 +12,7 @@
 
 <p>
   <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=32&v=2" >
-    <img width="53.5%" alt="wakatimestat" src="https://user-images.githubusercontent.com/48207131/158937052-fb2206a6-90f2-4b40-b34f-e273e6d12156.svg" />
+    <img width="53.5%" alt="wakatimestat" src="https://user-images.githubusercontent.com/48207131/163707044-18e611f1-e38b-4328-ab81-1ed9a1584d48.svg" />
 <!--     <img width="53.5%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6&v=2" alt="If you can't see refresh browser or click me!" />  -->
   </a>
     <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
