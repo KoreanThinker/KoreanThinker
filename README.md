@@ -25,6 +25,8 @@
  
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -63,6 +65,6 @@ create-react-app-antd    4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/05/2022 18:44:58 UTC
+ Last Updated on 07/05/2022 18:42:53 UTC
 <!--END_SECTION:waka-->
 </details>
