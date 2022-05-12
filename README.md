@@ -25,7 +25,7 @@
  
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,6 +63,6 @@ antd-demo                1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/05/2022 18:46:15 UTC
+ Last Updated on 12/05/2022 18:48:18 UTC
 <!--END_SECTION:waka-->
 </details>
