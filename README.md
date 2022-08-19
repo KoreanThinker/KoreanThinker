@@ -25,7 +25,7 @@
  
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -61,6 +61,6 @@ HER                      0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/08/2022 18:46:30 UTC
+ Last Updated on 19/08/2022 18:49:44 UTC
 <!--END_SECTION:waka-->
 </details>
