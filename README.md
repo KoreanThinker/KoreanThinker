@@ -56,11 +56,11 @@ Sunday       135 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 🐱‍💻 Projects: 
-HER                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/08/2022 18:43:00 UTC
+ Last Updated on 21/08/2022 18:42:46 UTC
 <!--END_SECTION:waka-->
 </details>
