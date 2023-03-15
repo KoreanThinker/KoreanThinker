@@ -21,7 +21,7 @@
   <img width="64" src="https://user-images.githubusercontent.com/48207131/225460130-c74ef12b-e68a-4c32-90d6-f6508e3ef7f6.png" />
 </a>
 <a href="https://github.com/hardcore-study-group" >
-  <img width="64" src="https://user-images.githubusercontent.com/48207131/225460231-8c6bcf92-9c9c-496d-aa80-38a05b8ef352.png" />
+  <img width="64" src="https://user-images.githubusercontent.com/48207131/225462742-429f1362-b4bf-44ae-8e12-d2f8dad9a973.png" />
 </a>
 
 ## Stats
