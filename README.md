@@ -12,7 +12,7 @@
 
 ## Owner of
 <a href="https://github.com/mwohaji-dev" >
-  <img width="64" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/fb624cb6-17bf-4638-b8b9-aafce2f1ddeb" />
+  <img width="64" src="https://avatars.githubusercontent.com/u/139248362?s=200&v=4" />
 </a>
 <a href="https://github.com/krtk-dev" >
   <img width="64" src="https://user-images.githubusercontent.com/48207131/225460208-c2052f30-9f88-4525-aed0-d6bd81a05727.png" />
