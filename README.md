@@ -37,5 +37,5 @@
   </a>
     <img width="43%" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=8&no-frame=true" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=9&no-frame=true" />
 
