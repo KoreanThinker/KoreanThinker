@@ -11,6 +11,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=Gmail&logoColor=#EA4335)](mailto:coderhyun476@gmail.com)
 
 ## Owner of
+<a href="https://github.com/mwohaji-dev" >
+  <img width="64" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/fb624cb6-17bf-4638-b8b9-aafce2f1ddeb" />
+</a>
 <a href="https://github.com/krtk-dev" >
   <img width="64" src="https://user-images.githubusercontent.com/48207131/225460208-c2052f30-9f88-4525-aed0-d6bd81a05727.png" />
 </a>
@@ -23,9 +26,7 @@
 <a href="https://github.com/hardcore-study-group" >
   <img width="64" src="https://user-images.githubusercontent.com/48207131/225462742-429f1362-b4bf-44ae-8e12-d2f8dad9a973.png" />
 </a>
-<a href="https://github.com/mwohaji-dev" >
-  <img width="64" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/fb624cb6-17bf-4638-b8b9-aafce2f1ddeb" />
-</a>
+
 
 ## Stats
 
