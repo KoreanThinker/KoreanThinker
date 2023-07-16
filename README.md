@@ -23,6 +23,9 @@
 <a href="https://github.com/hardcore-study-group" >
   <img width="64" src="https://user-images.githubusercontent.com/48207131/225462742-429f1362-b4bf-44ae-8e12-d2f8dad9a973.png" />
 </a>
+<a href="https://github.com/mwohaji-dev" >
+  <img width="64" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/b8a699c7-5824-458d-a60a-0686615a83a8.png" />
+</a>
 
 ## Stats
 
