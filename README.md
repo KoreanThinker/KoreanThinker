@@ -35,7 +35,7 @@
 
 -->
 
-## Stats
+# Stats
 
 <p>
   <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=32&v=2" >
@@ -46,8 +46,8 @@
 </p>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=10&no-frame=true" />
 
-### Open source projects
-<table>
+# Open source projects
+<table  >
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -94,10 +94,7 @@
   </tbody>
 </table>
 
-
-## Projects
-
-### Shopping-cat
-
+# Projects
+## Shopping-cat
 -  https://github.com/shopping-cat
 
