@@ -76,7 +76,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/KoreanThinker/react-native-instagram-like-image-cropper"><b>react-native-instagram-like-image-cropper</b></a></td>
+      <td><a href="https://github.com/KoreanThinker/react-native-instagram-like-image-cropper"><b>instagram-like-image-cropper</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
