@@ -36,7 +36,7 @@
 -->
 
 
-# Open source projects
+## Open source projects
 <table  >
   <thead align="center">
     <tr border: none;>
@@ -55,7 +55,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-translator"/></td>
+      <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-translator?style=flat-square"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/KoreanThinker/billboard-json"><b>billboard-json</b></a></td>
@@ -71,7 +71,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-instagram-like-image-cropper"/></td>
+      <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-instagram-like-image-cropper?style=flat-square"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/KoreanThinker/react-native-use-persisted-state"><b>react-native-use-persisted-state</b></a></td>
@@ -79,20 +79,65 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-use-persisted-state"/></td>
+      <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-use-persisted-state?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
 
-# Main projects
+## Main projects
 
-| Name | Organization | Category | Preview |
-| -| - | - | - |
-| Desilo Data Clean Room  | Desilo | Enterprise saas |    Preview     |
-| 38° | A-culture lab | SNS  |   Preview  |
-| Shopping cat | Self-employed  | E-commerce  |   Preview  |
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td></td>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🛠️ Domain</b></td>
+      <td><b>📚 Business</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225459961-b0d91ecb-605b-4454-8000-248f38c80a34.png" /></td>
+      <td><a href="https://github.com/shopping-cat"><b>Shopping Cat</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td>Pet e-commerce</td>
+    </tr>
+    <tr>
+      <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225460130-c74ef12b-e68a-4c32-90d6-f6508e3ef7f6.png" /></td>
+      <td><a href="https://github.com/A-CultureLab"><b>38°</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td>Pet community</td>
+    </tr>
+  </tbody>
+</table>
 
-# Side projects
+
+## Side projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td></td>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🛠️ Domain</b></td>
+      <td><b>📚 Business</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225459961-b0d91ecb-605b-4454-8000-248f38c80a34.png" /></td>
+      <td><a href="https://github.com/shopping-cat"><b>Shopping Cat</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td>Pet e-commerce</td>
+    </tr>
+    <tr>
+      <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225460130-c74ef12b-e68a-4c32-90d6-f6508e3ef7f6.png" /></td>
+      <td><a href="https://github.com/A-CultureLab"><b>38°</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td>Pet community</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
