@@ -99,13 +99,13 @@
     <tr>
       <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225459961-b0d91ecb-605b-4454-8000-248f38c80a34.png" /></td>
       <td><a href="https://github.com/shopping-cat"><b>Shopping Cat</b></a></td>
-      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
       <td>Pet e-commerce</td>
     </tr>
     <tr>
       <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225460130-c74ef12b-e68a-4c32-90d6-f6508e3ef7f6.png" /></td>
       <td><a href="https://github.com/A-CultureLab"><b>38°</b></a></td>
-      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
       <td>Pet community</td>
     </tr>
   </tbody>
@@ -120,21 +120,24 @@
       <td></td>
       <td><b>🎁 Projects</b></td>
       <td><b>🛠️ Domain</b></td>
-      <td><b>📚 Business</b></td>
+      <td><b>📚 Description</b></td>
+      <td><b>⏬ Downloads</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225459961-b0d91ecb-605b-4454-8000-248f38c80a34.png" /></td>
-      <td><a href="https://github.com/shopping-cat"><b>Shopping Cat</b></a></td>
-      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
-      <td>Pet e-commerce</td>
+      <td><img width="24" src="https://play-lh.googleusercontent.com/xj6GnrX-YEVWsOTk-D4YJRLIUKGhDE0WcKFasVukH_Z-dTzRP7bedR--IcmCBsInNQ=w480-h960-rw" /></td>
+      <td><a href="https://github.com/krtk-dev/translators"><b>Translators</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/></td>
+      <td>Comparison of Google, Papago, Kakao translators</td>
+      <td><img alt="Downloads" src="https://img.shields.io/badge/downloads-+30,000-44cc11.svg?style=flat-square" /></td>
     </tr>
     <tr>
-      <td><img width="24" src="https://user-images.githubusercontent.com/48207131/225460130-c74ef12b-e68a-4c32-90d6-f6508e3ef7f6.png" /></td>
-      <td><a href="https://github.com/A-CultureLab"><b>38°</b></a></td>
-      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_app-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
-      <td>Pet community</td>
+      <td><img width="24" src="https://play-lh.googleusercontent.com/2-HR7UEyvLa2jQQBBHLfBm8dVuE27b8ZP6m9xmTnep0tRZfRVkzd3_I8NyV9BOySgQ=w480-h960-rw" /></td>
+      <td><a href="https://github.com/krtk-dev/billboard-player"><b>Billboard Player</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td>Free billboard hot 100 M/V streaming service</td>
+      <td><img alt="Downloads" src="https://img.shields.io/badge/downloads-+100,000-44cc11.svg?style=flat-square" /></td>
     </tr>
   </tbody>
 </table>
