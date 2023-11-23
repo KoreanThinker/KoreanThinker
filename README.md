@@ -126,22 +126,35 @@
   </thead>
   <tbody>
     <tr>
-      <td><img width="24" src="https://play-lh.googleusercontent.com/xj6GnrX-YEVWsOTk-D4YJRLIUKGhDE0WcKFasVukH_Z-dTzRP7bedR--IcmCBsInNQ=w480-h960-rw" /></td>
+      <td><img width="24" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/9e9bdc6f-cb1f-4c68-9cf7-131fd1acfcf9" /></td>
+      <td><a href="https://github.com/krtk-dev/billboard-player"><b>Billboard Player</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
+      <td>Free billboard hot 100 M/V streaming service</td>
+      <td><img alt="Downloads" src="https://img.shields.io/badge/downloads-+100,000-44cc11.svg?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><img width="24" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/c4819cae-fc3b-4459-8caa-4404abc9ed10" /></td>
       <td><a href="https://github.com/krtk-dev/translators"><b>Translators</b></a></td>
       <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/></td>
       <td>Comparison of Google, Papago, Kakao translators</td>
       <td><img alt="Downloads" src="https://img.shields.io/badge/downloads-+30,000-44cc11.svg?style=flat-square" /></td>
     </tr>
     <tr>
-      <td><img width="24" src="https://play-lh.googleusercontent.com/2-HR7UEyvLa2jQQBBHLfBm8dVuE27b8ZP6m9xmTnep0tRZfRVkzd3_I8NyV9BOySgQ=w480-h960-rw" /></td>
-      <td><a href="https://github.com/krtk-dev/billboard-player"><b>Billboard Player</b></a></td>
+      <td><img width="24" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/6b23df9a-555b-4fb5-9418-f72af32c32e1" /></td>
+      <td><a href="https://github.com/krtk-dev/billboard-player"><b>Music shorts</b></a></td>
       <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
-      <td>Free billboard hot 100 M/V streaming service</td>
-      <td><img alt="Downloads" src="https://img.shields.io/badge/downloads-+100,000-44cc11.svg?style=flat-square" /></td>
+      <td>Short music streaming service</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><img width="24" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/95119a6d-68d1-45a9-97a8-fbb62841152e" /></td>
+      <td><a href="https://github.com/krtk-dev/ddiyong"><b>Ddiyong</b></a></td>
+      <td><img alt="Domain" src="https://img.shields.io/badge/Mobile_Game-9c9824?style=flat-square"/></td>
+      <td>Mobile puzzle game</td>
+      <td><img alt="Downloads" src="https://img.shields.io/badge/downloads-+500-44cc11.svg?style=flat-square" /></td>
     </tr>
   </tbody>
 </table>
-
 
 
 # Stats
