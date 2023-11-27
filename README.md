@@ -124,7 +124,8 @@
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=koreanthinker&theme=onedark&column=10&no-frame=true" />
 <p>
-    <img width="56.1%" alt="wakatimestat" src="https://user-images.githubusercontent.com/48207131/166133232-0d06f860-6d55-419c-89e3-6f28fc76467c.svg" />
+    <!-- <img width="56.1%" alt="wakatimestat" src="https://user-images.githubusercontent.com/48207131/166133232-0d06f860-6d55-419c-89e3-6f28fc76467c.svg" /> -->
+    <img width="56.1%" alt="wakatimestat" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoreanThinker&layout=compact&theme=dark&hide_border=true&langs_count=6&v=2" />
     <img width="43.4%" src="https://github-readme-stats.vercel.app/api?username=KoreanThinker&theme=dark&hide_border=true&count_private=true" alt="KoreanThinker's Stats" />
 </p>
 
