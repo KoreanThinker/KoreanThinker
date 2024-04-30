@@ -47,7 +47,7 @@
 </table>
 <br>
 
-## Main projects
+## Startup projects
 
 <table>
   <thead align="center">
