@@ -6,7 +6,8 @@
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>📢 Last commit</b></td>
+<!--       <td><b>📬 Pull requests</b></td> -->
       <td><b>⏬ Downloads</b></td>
     </tr>
   </thead>
@@ -16,7 +17,8 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commit" src="https://img.shields.io/github/last-commit/koreanthinker/react-native-translator?style=flat-square"/></td>
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-translator?style=flat-square&labelColor=343b41"/></td> -->
       <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-translator?style=flat-square"/></td>
     </tr>
     <tr>
@@ -24,7 +26,8 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/koreanthinker/billboard-json?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/billboard-json?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/billboard-json?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/billboard-json?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commit" src="https://img.shields.io/github/last-commit/koreanthinker/billboard-json?style=flat-square"/></td>
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/billboard-json?style=flat-square&labelColor=343b41"/></td> -->
       <td>-</td>
     </tr>
     <tr>
@@ -32,7 +35,8 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commit" src="https://img.shields.io/github/last-commit/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square"/></td>
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-instagram-like-image-cropper?style=flat-square&labelColor=343b41"/></td> -->
       <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-instagram-like-image-cropper?style=flat-square"/></td>
     </tr>
     <tr>
@@ -40,7 +44,8 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commit" src="https://img.shields.io/github/last-commit/koreanthinker/react-native-use-persisted-state?style=flat-square"/></td>
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/koreanthinker/react-native-use-persisted-state?style=flat-square&labelColor=343b41"/></td> -->
       <td><img alt="Downlaods" src="https://img.shields.io/npm/dt/react-native-use-persisted-state?style=flat-square"/></td>
     </tr>
   </tbody>
