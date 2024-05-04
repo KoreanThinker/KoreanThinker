@@ -1,3 +1,13 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoreanthinker&count_bg=%23C2C2C2&title_bg=%237C7C7C&icon=&icon_color=%23B8B8B8&title=H&edge_flat=false)
+![Javascript](https://img.shields.io/badge/JavaScript-EEE?logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-EEE?logo=Typescript&logoColor=black)
+![React](https://img.shields.io/badge/React-EEE?logo=React&logoColor=black)
+![ReactNative](https://img.shields.io/badge/ReactNative-EEE?logo=React&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-EEE?logo=Node.js&logoColor=black)
+
+
+
+
 ## Open source projects
 <table  >
   <thead align="center">
