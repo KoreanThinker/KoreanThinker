@@ -107,7 +107,7 @@
     </tr>
     <tr>
       <td><img width="24" src="https://github.com/KoreanThinker/KoreanThinker/assets/48207131/6b23df9a-555b-4fb5-9418-f72af32c32e1" /></td>
-      <td><a href="https://github.com/krtk-dev/billboard-player"><b>Music shorts</b></a></td>
+      <td><a href="https://github.com/hardcore-study-group/music-shorts"><b>Music shorts</b></a></td>
       <td><img alt="Domain" src="https://img.shields.io/badge/App-8A2BE2?style=flat-square"/> <img alt="Domain" src="https://img.shields.io/badge/Web-30a14e?style=flat-square"/></td>
       <td>Short music streaming service</td>
       <td>-</td>
