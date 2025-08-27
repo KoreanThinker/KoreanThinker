@@ -4,7 +4,7 @@
 ![Node](https://img.shields.io/badge/Node.js-EEE?logo=Node.js&logoColor=black)
 <!-- ![Typescript](https://img.shields.io/badge/Typescript-EEE?logo=Typescript&logoColor=black) -->
 
-## Open source projects
+## Open sources
 <table  >
   <thead align="center">
     <tr border: none;>
@@ -49,7 +49,7 @@
 </table>
 <br>
 
-## Startup projects
+## Startup
 
 <table>
   <thead align="center">
@@ -77,7 +77,7 @@
 </table>
 <br>
 
-## Side projects
+## Side
 
 <table>
   <thead align="center">
